@@ -7,7 +7,7 @@ namespace CompanyName.DDD.Domain.Common.EFCore.Configuration
     {
         public void Configure(EntityTypeBuilder<TaxType> builder)
         {
-            builder.ToTable("Accesory").HasKey(x => x.TaxTypeCode);
+            builder.ToTable("TaxType").HasKey(x => x.TaxTypeCode);
         }
     }
 }
