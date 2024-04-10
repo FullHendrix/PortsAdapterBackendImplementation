@@ -10,7 +10,7 @@ namespace CompanyName.DDD.API.Controllers.TaxType
         public IActionResult Get()
         {
             //return Ok(_accesory.Get());
-            return Ok()
+            return Ok();
         }
     }
 }
