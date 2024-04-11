@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace CompanyName.DDD.API.Controllers.TaxType
 {
     [ApiController]
-    [Route("material/v1/[controller]")]
+    [Route("ddd/[controller]")]
     public class TaxTypeController : Controller
     {
         private readonly ITaxTypeAggregate _taxType;
