@@ -1,4 +1,5 @@
 ﻿using CompanyName.DDD.Domain.Common.Log;
+using CompanyName.DDD.Domain.Common.Struct;
 using CompanyName.DDD.Domain.ProductStockAggregate.Application.DTO;
 using CompanyName.DDD.Domain.ProductStockAggregate.Application.Interface;
 using CompanyName.DDD.Domain.SaleAggregate.Application.DTO;

@@ -1,4 +1,5 @@
 ﻿using CompanyName.DDD.Domain.Common.Log;
+using CompanyName.DDD.Domain.Common.Struct;
 using CompanyName.DDD.Domain.KardexAggregate.Application.DTO;
 using CompanyName.DDD.Domain.KardexAggregate.Application.Interface;
 using CompanyName.DDD.Domain.KardexAggregate.Domain;
